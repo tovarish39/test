@@ -1,3 +1,5 @@
+https://img.shields.io/badge/any_text-you_like-blue
+
 # Test
 
 TODO: Delete this and the text below, and describe your gem
