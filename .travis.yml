@@ -1,0 +1,4 @@
+language: ruby
+rbenv:
+ - 3.2.2
+ - jruby
