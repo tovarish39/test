@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/any_text--you_like-green-hz-yellow)
+![Static Badge](https://img.shields.io/badge/any_text--you_like-hz-yellow)
 
 
 # Test
