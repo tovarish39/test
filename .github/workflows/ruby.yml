@@ -36,6 +36,7 @@ jobs:
         bundler-cache: true # runs 'bundle install' and caches installed gems automatically
     - name: Run tests
       run: bundle exec rake test
+
   
     #- name: Create Awesome Badge
     #  uses: schneegans/dynamic-badges-action@v1.7.0
