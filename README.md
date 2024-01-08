@@ -1,5 +1,5 @@
 ![Static Badge](https://img.shields.io/badge/any_text--you_like-hz-yellow)
-
+![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/tovarish39/03d89c4bc569002b9bfba9f5249fc125/raw/ruby_rake_test.json)
 
 # Test
 
