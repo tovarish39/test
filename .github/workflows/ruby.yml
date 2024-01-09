@@ -38,10 +38,10 @@ jobs:
       run: bundle exec rake test
 
   
-    #- name: Create Awesome Badge
-    #  uses: schneegans/dynamic-badges-action@v1.7.0
-    #  with:
-    #    auth: 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 #${{ secrets.GIST_SECRET }}
+    - name: Create Awesome Badge
+      uses: schneegans/dynamic-badges-action@v1.7.0
+      with:
+        auth: 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 #${{ secrets.GIST_SECRET }}
     #    gistID: 03d89c4bc569002b9bfba9f5249fc125
     #    filename: ruby_rake_test.json # Use test.svg if you want to use the SVG mode.
     #    label: Hello
