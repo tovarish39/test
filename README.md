@@ -1,6 +1,6 @@
 ![Static Badge](https://img.shields.io/badge/any_text--you_like-hz-yellow)
 ![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/tovarish39/03d89c4bc569002b9bfba9f5249fc125/raw/ruby_rake_test.json)
-![trying](https://i.pinimg.com/736x/24/15/21/24152197af38deb718eb730992d441d0.jpg)
+![example workflow](https://github.com/tovarish39/test/actions/workflows/ruby.yml/badge.svg)
 # Test
 
 TODO: Delete this and the text below, and describe your gem
